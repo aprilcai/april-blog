@@ -121,4 +121,9 @@ typingArr.forEach(function (el) {
     style.animationTimingFunction = 'steps('+len+'),steps(1)';
 });
 ```
-你也可以点击这个地址 [https://codepen.io/april0421/pen/oORrEx](https://codepen.io/april0421/pen/oORrEx) 查看demo效果或者自己动手改改
+
+效果如下
+<iframe height="464" style="width: 100%;" scrolling="no" title="oORrEx" src="https://codepen.io/april0421/embed/oORrEx?height=464&theme-id=dark&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/april0421/pen/oORrEx'>oORrEx</a> by april
+  (<a href='https://codepen.io/april0421'>@april0421</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
